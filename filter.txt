@@ -435,10 +435,6 @@ sourceiran.com##.text-ads-widget.widget
 static.mailerlite.com##.mailerlite-container
 static.mailerlite.com##.mailerlite-vertical-align-center
 static.mailerlite.com##.overlay
-tabnak.ir##.adv_height
-tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
-tabnak.ir##.marquee_container.row
-tabnak.ir##.scrollingtext
 tabnak.ir##.home_adv_height
 tafrihi.com###fade
 tafrihi.com##.affilate
