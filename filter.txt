@@ -439,6 +439,7 @@ tabnak.ir##.adv_height
 tabnak.ir##.home_adv_height.padd_home_right.visible-md.visible-lg.col-md-5
 tabnak.ir##.marquee_container.row
 tabnak.ir##.scrollingtext
+tabnak.ir##.home_adv_height
 tafrihi.com###fade
 tafrihi.com##.affilate
 tafsir-news.ir##.section-box
